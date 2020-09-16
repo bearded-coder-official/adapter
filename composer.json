@@ -1,5 +1,5 @@
 {
-  "name": "hillel/adapter",
+  "name": "hillel2/adapter",
   "description": "Adapters for parsing IP",
   "type": "library",
   "require": {
