@@ -4,7 +4,7 @@
   "type": "library",
   "require": {
     "geoip2/geoip2": "^2.10",
-    "illuminate/support": "^8.4"
+    "illuminate/support": "^8.0"
   },
   "autoload": {
     "psr-4": {
