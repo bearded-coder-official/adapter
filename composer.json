@@ -1,6 +1,6 @@
 {
   "name": "hillel2/adapter",
-  "description": "Adapters for parsing IP",
+  "description": "Adapters for parsing IP saiuh ISuah iuhs",
   "type": "library",
   "require": {
     "geoip2/geoip2": "^2.10",
